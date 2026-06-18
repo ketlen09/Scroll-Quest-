@@ -19,7 +19,7 @@ Cada pergaminho contém uma pergunta sobre o Brasil. Ao responder corretamente, 
 *Ao tocar em um pergaminho, responda à pergunta apresentada.
 *Cada resposta correta aumenta sua pontuação.
 *Encontre todos os pergaminhos para concluir a aventura.
-# 📚 Perguntas do Jogo
+## 📚 Perguntas do Jogo
 
 * Qual é a capital do Brasil?
 * Quantos estados o Brasil possui?
@@ -30,7 +30,7 @@ Cada pergaminho contém uma pergunta sobre o Brasil. Ao responder corretamente, 
 * Qual é o rio mais famoso da Amazônia?
 * Qual é a cor predominante da bandeira do Brasil?
 * 
-# 💻 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 * Scratch
 * Programação em blocos
@@ -38,7 +38,7 @@ Cada pergaminho contém uma pergunta sobre o Brasil. Ao responder corretamente, 
 * Sensores de colisão
 * Estruturas condicionais
 * 
-# 👨‍💻 Equipe
+## 👨‍💻 Equipe
 
 Ketlen Salvador 
 Lara Ribeiro
