@@ -47,5 +47,3 @@ Letícia Silva
 ## 🔗 Link do Projeto
 link completo https://scratch.mit.edu/projects/1331005472/editor
 
-Descrição curta para o GitHub
-Scroll Quest é um jogo educativo criado no Scratch onde o jogador explora um labirinto, encontra pergaminhos e responde perguntas sobre o Brasil para acumular pontos.
