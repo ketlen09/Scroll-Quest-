@@ -40,9 +40,9 @@ Cada pergaminho contém uma pergunta sobre o Brasil. Ao responder corretamente, 
 * 
 ## 👨‍💻 Equipe
 
-Ketlen Salvador 
-Lara Ribeiro
-Letícia Silva
+* Ketlen Salvador 
+* Lara Ribeiro
+* Letícia Silva
 
 ## 🔗 Link do Projeto
 link completo https://scratch.mit.edu/projects/1331005472/editor
