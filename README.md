@@ -47,3 +47,6 @@ Cada pergaminho contém uma pergunta sobre o Brasil. Ao responder corretamente, 
 ## 🔗 Link do Projeto
 link completo https://scratch.mit.edu/projects/1331005472/editor
 
+## Link do Canva 
+link completo https://drive.google.com/file/d/1NcOxbR0oe6f3jG56UdOHn_zvUdtKZGwd/view?usp=drivesdk
+
